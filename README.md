@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou o Jonathan Leandro 👌 
 
-![Blog](https://img.shields.io/website?label=Portifolio-Jonathan-Leandro&style=for-the-badge&url=https://jonathanleandro.vercel.app)[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonathan-leandro)
+[![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://jonathanleandro.vercel.app/)](https://jonathanleandro.vercel.app)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonathan-leandro)
 
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanleandro&show_icons=true&theme=tokyonight)
 
